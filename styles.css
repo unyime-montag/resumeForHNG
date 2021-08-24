@@ -1,4 +1,4 @@
-body aside {
+body {
   flex-direction: column;
   display: flex;
   height: 90vh;
